@@ -12,7 +12,7 @@ const G={
   {src:'assets/kicad1', title:'Skematik 3D Monitoring server Telkomsat'},
   {src:'assets/kicad2', title:'Skematik Monitoring server Telkomsat'}
   ],
-  tinkercad:[{src:'assets/tinkercad1',title:'Desain Fire Alarm Telkomsat'}],
+  tinkercad:[{src:'assets/tinkercad1',title:'Desain Monitoring Server Telkomsat'}],
   iot:[
   {src:'assets/iot1', title:'PLC trainer Divisi wiring'},
   {src:'assets/iot2', title:'Prototype Fire Alarm Detector Prima Jaya Elektronik'},
